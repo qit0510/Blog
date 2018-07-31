@@ -1,0 +1,9 @@
+/*超出多行隐藏*/
+.intwoline{
+    display:-webkit-box!important;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    word-break:break-all;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp:2;
+}
