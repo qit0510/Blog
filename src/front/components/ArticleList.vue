@@ -12,8 +12,7 @@
                            class="look-more">
                     查看全部
                 </el-button>
-            </el-card>
-
+            </el-card>      
         </el-row>
         <!--页码-->
         <div class="block">

@@ -1,7 +1,10 @@
-# Blog
+# qit的个人博客，记录一些学习生活的片段。
+<h5><a href="https://weibo.com/u/3320802977/home">微博: qit0510</a></h5>
+
+***
 
 #### 项目介绍
-个人Blog开发
+个人博客,个人日志分享 
 
 #### 软件架构
 软件架构说明
@@ -9,9 +12,8 @@
 
 #### 安装教程
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. npm i
+2. npm run serve
 
 #### 使用说明
 
@@ -21,17 +23,17 @@
 
 #### 参与贡献
 
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+1. <a href="https://cli.vuejs.org/">vue官方文档</a>
+2. <a href="http://element-cn.eleme.io/#/zh-CN">Element UI</a>
+3. <a href="https://github.com/VincentGarreau/particles.js">particles.js</a>
 
 
-#### 码云特技
+#### 效果展示
 
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [http://git.mydoc.io/](http://git.mydoc.io/)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1. 首页界面展示
+
+2. 登陆界面展示
+
+3. 后台界面展示
+
+
